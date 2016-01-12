@@ -1,0 +1,28 @@
+name: Diary of a FEMBA
+favicon: null
+layout_spectrum: 0.12999076605774462
+typography_spectrum: 0.49476865609176457
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8996583940461278
+  lightness: 0.5922951244283468
+  saturation: 0.07751332665793598
+  rhythmicContrast: 0.3115075754467398
+purpose: []
